@@ -45,9 +45,9 @@ class ViewController: UIViewController {
     
     func setupData() {
         
-        let item1: Item = Item(imageName: "background2", nameProduct: "Anh1", desLabel: "Chúc em những năm tháng này có thể cười nhiều hơn, khóc ít đi, hạnh phúc nhân đôi.", priceLabel: "100$")
-        let item2: Item = Item(imageName: "background3", nameProduct: "Anh2", desLabel: "Chúc em những năm tháng này có thể quên đi chuyện cũ, quên đi người cũ. Trân trọng hiện tại, yêu lấy bản thân.", priceLabel: "100$")
-        let item3: Item = Item(imageName: "background4", nameProduct: "Anh3", desLabel: "Chúc em những năm tháng này đi đúng đường, chọn đúng người, không còn phải nói hai chữ “Giá như ”.", priceLabel: "100$")
+        let item1: Item = Item(imageName: "background2", nameProduct: "Lời chúc 1", desLabel: "Chúc em những năm tháng này có thể cười nhiều hơn, khóc ít đi, hạnh phúc nhân đôi.", priceLabel: "100$")
+        let item2: Item = Item(imageName: "background3", nameProduct: "Lời chúc 2", desLabel: "Chúc em những năm tháng này có thể quên đi chuyện cũ, quên đi người cũ. Trân trọng hiện tại, yêu lấy bản thân.", priceLabel: "120$")
+        let item3: Item = Item(imageName: "background4", nameProduct: "Lời chúc 3", desLabel: "Chúc em những năm tháng này đi đúng đường, chọn đúng người, không còn phải nói hai chữ “Giá như ”.", priceLabel: "150$")
         item = [item1, item2, item3]
     }
     
